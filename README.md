@@ -20,7 +20,7 @@ La página es responsive y utiliza el patrón de diseño Material Design y Boots
 
 ## Enlaces
 
-- [Página web del proyecto](https://codegeekr.github.io/API_city/){:target="\_blank"}
+- [Página web del proyecto](https://codegeekr.github.io/API-Cities/)
 
 ## Autor
 
